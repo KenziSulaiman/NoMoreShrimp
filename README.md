@@ -38,7 +38,7 @@ We're excited to keep improving No More Shrimp:
 ## How to Run
 1. Clone this repository:
 bash
-   git clone https://github.com/yourusername/no-more-shrimp.git
+   git clone https://github.com/yourusername/NoMoreShrimp.git
    cd no-more-shrimp
 2. Install dependencies:
    pip install -r requirements.txt
